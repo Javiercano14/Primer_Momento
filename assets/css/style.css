@@ -1,0 +1,95 @@
+table{
+    margin: auto;
+    font-size: 130%;
+    
+    
+}
+
+.menu
+{
+    color: black;
+    margin-right: 1%;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+      
+    
+}
+
+.menu li
+{
+    display: inline-block;
+}
+
+.menu li a
+{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.menu li a:hover
+{
+    background-color: #eee;
+}
+
+.siz{
+    color: black;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: beige;
+}
+
+body{
+    background-color: chocolate;
+}
+
+.logo{
+    height: 100%;
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+h2{
+    font-size: 200%;
+}
+
+p{
+    font-size: 150%;
+}
+
+h3{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 180%;
+}
+
+.tienda{
+    width: 220px;
+    height: 220px;
+}
+
+.sol{
+    width: 220px;
+    height: 220px;
+}
+
+.mar{
+    width: 220px;
+    height: 220px;
+}
+
+footer{
+    margin-top: 10%;
+}
